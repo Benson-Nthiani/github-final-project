@@ -4,10 +4,9 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Upkar Lidder (IBM)
+   # Author: Benson Nthiani (IBM)
    # Additional Authors:
-   # <your GitHub username>
-
+   # <https://github.com/Benson-Nthiani>
    # Input:
    # p, principal amount
    # t, time period in years
